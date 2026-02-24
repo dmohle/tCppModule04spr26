@@ -19,7 +19,7 @@ Background:
 The zoo has received a new list of animals. Organize this information, process it, and prepare a report on the animals, including their specific enclosures.
 
 Important:
-This program is crucial for preparing for your major midterm project. Seek help if needed through tutors, joining our Discord server, forming a study group, or finding a lab partner.
+This program is crucial for preparing for your major midterm project. Seek help if needed through tutors, forming a study group, or finding a lab partner.
 
 Requirements:
 
